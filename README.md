@@ -1,7 +1,6 @@
 # RFE-Variance-Equilibrium-Despeckling
 
-This repository accompanies the manuscript  
-**“Deterministic Locality Algorithm for Structure-Preserving Speckle Suppression via Radial Flux Equilibrium”**,  
+This repository accompanies the manuscript **“Deterministic Locality Algorithm for Structure-Preserving Speckle Suppression via Radial Flux Equilibrium”**,  
 which introduces a deterministic, single-pass despeckling framework for coherent imaging modalities grounded in **Radial Flux Equilibrium (RFE)**.
 
 <p align="center">
