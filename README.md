@@ -4,6 +4,12 @@ This repository accompanies the manuscript
 **“Deterministic Locality Algorithm for Structure-Preserving Speckle Suppression via Radial Flux Equilibrium”**,  
 which introduces a deterministic, single-pass despeckling framework for coherent imaging modalities grounded in **Radial Flux Equilibrium (RFE)**.
 
+<p align="center">
+  <img src="IMAGE_ULTRASOUND_CT_RADAR/rresults.png" width="620"/>
+</p>
+
+**Figure:** Representative Model's graph and results, illustrating variance-equilibrium despeckling and radiometric preservation across modalities.
+
 ## Overview
 
 Speckle suppression in coherent imaging is fundamentally challenging due to the multiplicative, signal-dependent nature of speckle noise, which induces spatially heterogeneous statistics and compromises both structural integrity and radiometric consistency. The proposed RFE framework formulates despeckling as a **solved statistical equilibrium problem**, replacing heuristic tuning and iterative correction with analytically derived variance control anchored in measured image statistics.
@@ -38,11 +44,7 @@ These results establish RFE as a reproducible and practically deployable alterna
 
 The full implementation of the proposed RFE framework, including ROI selection, variance targeting, locality coupling, and evaluation routines, is available upon reasonable request for academic research and peer-review purposes. This public repository provides methodological documentation, dataset provenance, and access instructions to support transparency and reproducibility.
 
-<p align="center">
-  <img src="IMAGE_ULTRASOUND_CT_RADAR/CT.png" width="320"/>
-</p>
 
-**Figure:** Representative results illustrating variance-equilibrium despeckling and radiometric preservation across modalities.
 
 
 ----
