@@ -1,1 +1,1 @@
-Sample images collected for ultrasound (US), Computed Tomography (CT), and RADAR SAR (Synthetic Aperture Radar) data that were used in  validation.
+Sample images collected for i) ultrasound (US), i.e., Ultrasound_Foot.png and ultrasound_foetus. ii) Computed Tomography (CT), i.e.,CT.png,  and finally, iii) RADAR SAR (Synthetic Aperture Radar), i.e., radar.jpg; these images were used in validations. Finally, the rresults.png image highlights the model's implementation structure, and the obtained plotted results.
