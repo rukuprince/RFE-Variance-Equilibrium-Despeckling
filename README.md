@@ -39,7 +39,7 @@ These results establish RFE as a reproducible and practically deployable alterna
 The full implementation of the proposed RFE framework, including ROI selection, variance targeting, locality coupling, and evaluation routines, is available upon reasonable request for academic research and peer-review purposes. This public repository provides methodological documentation, dataset provenance, and access instructions to support transparency and reproducibility.
 
 <p align="center">
-  <img src="IMAGE_ULTRASOUND_CT_RADAR/CT.png" width="720"/>
+  <img src="IMAGE_ULTRASOUND_CT_RADAR/CT.png" width="320"/>
 </p>
 
 **Figure:** Representative results illustrating variance-equilibrium despeckling and radiometric preservation across modalities.
